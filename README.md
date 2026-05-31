@@ -4,14 +4,14 @@ Official public repository for the Moonlight Beast NFT collection.
 
 ## Overview
 
-Moonlight Beast is a unique and collectible NFT series featuring [describe your collection theme]. Each NFT is a digital asset with unique traits, characteristics, and rarity levels.
+Moonlight Beast is a unique and collectible NFT series featuring digital assets with unique traits, characteristics, and rarity levels. Each NFT is a blockchain-verified digital collectible.
 
 ## Collection Details
 
 - **Total Supply:** [Number of NFTs]
 - **Blockchain:** [Ethereum/Polygon/Solana/Other]
 - **Contract Address:** [0x...]
-- **Standard:** ERC-721 / ERC-1155
+- **Standard:** ERC-721
 - **Launch Date:** [Date]
 
 ## Getting Started
@@ -26,32 +26,11 @@ Moonlight Beast is a unique and collectible NFT series featuring [describe your 
 2. Connect your Web3 wallet (MetaMask, WalletConnect, etc.)
 3. Browse and purchase your Moonlight Beast NFT
 
-### Rarity Tiers
-
-- **Legendary** - [%] - [Description]
-- **Epic** - [%] - [Description]
-- **Rare** - [%] - [Description]
-- **Common** - [%] - [Description]
-
-## Traits & Attributes
-
-Our Moonlight Beasts feature the following trait categories:
-
-- Background
-- Body Type
-- Color Palette
-- Special Effects
-- Accessories
-- Rarity Modifiers
-
-[View detailed trait rarity spreadsheet or chart]
-
 ## Documentation
 
 - 📖 [Technical Documentation](./docs/TECHNICAL.md)
-- 🎨 [Art & Design](./docs/ART_GUIDE.md)
-- 🔐 [Smart Contract Details](./docs/CONTRACT_DETAILS.md)
-- 📊 [Metadata Structure](./docs/METADATA.md)
+- 🗺️ [Roadmap](./docs/ROADMAP.md)
+- ❓ [FAQ](./docs/FAQ.md)
 
 ## Smart Contracts
 
@@ -63,8 +42,6 @@ Our Moonlight Beasts feature the following trait categories:
 ### Testnet
 - **Goerli:** `0x...`
 - **Sepolia:** `0x...`
-
-[View full contract code](./contracts/)
 
 ## Community & Links
 
@@ -88,10 +65,10 @@ This project is licensed under the [MIT License](./LICENSE) - see the LICENSE fi
 
 ## Roadmap
 
-### Phase 1: Foundation
+### Phase 1: Foundation ✅
 - [x] Smart contract development
+- [x] Contract security audit
 - [ ] Collection launch
-- [ ] Community establishment
 
 ### Phase 2: Growth
 - [ ] Secondary marketplace integration
@@ -111,7 +88,7 @@ This project is licensed under the [MIT License](./LICENSE) - see the LICENSE fi
 A: All Moonlight Beast NFTs are verified on-chain. Check the contract address and your wallet on a blockchain explorer.
 
 **Q: What are gas fees?**
-A: Gas fees are blockchain transaction costs. They vary based on network congestion. Check sites like [GasFees.com](https://www.gasfees.com/).
+A: Gas fees are blockchain transaction costs. They vary based on network congestion.
 
 **Q: Can I resell my NFT?**
 A: Yes! You can sell your NFT on any supported marketplace at any time.
@@ -121,9 +98,8 @@ A: Yes! You can sell your NFT on any supported marketplace at any time.
 ## Security
 
 - Smart contracts audited by [Audit Firm Name]
-- Audit report: [Link to report]
-- No team wallet holding limitations
 - Transparent supply management
+- Non-upgradeable contract design
 
 ## Disclaimer
 
@@ -133,4 +109,4 @@ Moonlight Beast NFTs are digital collectibles with no guaranteed value. Cryptocu
 
 **Made with 🌙 by [Your Name/Team]**
 
-Last Updated: [Date]
+Last Updated: 2026-01-02
