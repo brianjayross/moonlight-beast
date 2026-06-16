@@ -8,11 +8,11 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 
 ## Collection Details
 
-- **Total Supply:** [Number of NFTs]
-- **Blockchain:** [Ethereum/Polygon/Solana/Other]
+- **Total Supply:** 9,999
+- **Blockchain:** Ethereum/Polygon
 - **Contract Address:** [0x...]
 - **Standard:** ERC-721
-- **Launch Date:** [Date]
+- **Launch Date:** November 2025
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 ## Documentation
 
 - 📖 [Technical Documentation](./docs/TECHNICAL.md)
-- 🗺️ [Roadmap](./docs/ROADMAP.md)
+- 🗺️ [Roadmap](./docs/ROADMAP.md) hello Maria gonna do bro I'm pretty busy I'm does mom hindu this OK coGo what is Mauro laptop on a contest of doing I wanna close it now no do you dress oh she orders are just come work review orders I'll come work I'm a get ready OK sure
 - ❓ [FAQ](./docs/FAQ.md)
 
 ## Smart Contracts
@@ -46,10 +46,12 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 ## Community & Links
 
 - 🌐 **Website:** [yourwebsite.com]
-- 🐦 **Twitter:** [@YourHandle](https://twitter.com)
+- 🐦 **Twitter:** [@moonlightbeastt](https://twitter.com)
 - 💬 **Discord:** [Discord Invite](https://discord.gg)
 - 📧 **Email:** contact@example.com
-- 🌍 **OpenSea:** [Collection Link]
+- 🌍 **OpenSea:** [https://opensea.io/collection/moonlightbeast]
+  
+  
 
 ## Contributing
 
@@ -107,6 +109,6 @@ Moonlight Beast NFTs are digital collectibles with no guaranteed value. Cryptocu
 
 ---
 
-**Made with 🌙 by [Your Name/Team]**
+**Made with 🌙 by Brian Ross/Moonlight**
 
 Last Updated: 2026-01-02
