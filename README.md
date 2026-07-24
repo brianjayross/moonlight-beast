@@ -29,7 +29,7 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 ## Documentation
 
 - 📖 [Technical Documentation](./docs/TECHNICAL.md)
-- 🗺️ [Roadmap](./docs/ROADMAP.md) hello Maria gonna do bro I'm pretty busy I'm does mom hindu this OK coGo what is Mauro laptop on a contest of doing I wanna close it now no do you dress oh she orders are just come work review orders I'll come work I'm a get ready OK sure
+- 🗺️ [Roadmap](./docs/ROADMAP.md) 
 - ❓ [FAQ](./docs/FAQ.md)
 
 ## Smart Contracts
@@ -45,10 +45,10 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 
 ## Community & Links
 
-- 🌐 **Website:** [yourwebsite.com]
+- 🌐 **Website:** https://www.moonlightbeast.com/
 - 🐦 **Twitter:** [@moonlightbeastt](https://twitter.com)
-- 💬 **Discord:** [Discord Invite](https://discord.gg)
-- 📧 **Email:** contact@example.com
+- 💬 **Discord:** [(https://discord.gg/HJQsA4UHq )](https://discord.gg)
+- 📧 **Email:** brian@moonlightbeast.com
 - 🌍 **OpenSea:** [https://opensea.io/collection/moonlightbeast]
   
   
@@ -70,7 +70,7 @@ This project is licensed under the [MIT License](./LICENSE) - see the LICENSE fi
 ### Phase 1: Foundation ✅
 - [x] Smart contract development
 - [x] Contract security audit
-- [ ] Collection launch
+- [x] Collection launch
 
 ### Phase 2: Growth
 - [ ] Secondary marketplace integration
