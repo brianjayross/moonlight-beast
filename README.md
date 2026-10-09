@@ -11,8 +11,8 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 - **Total Supply:** 9,999
 - **Blockchain:** Ethereum/Polygon
 - **Contract Address:** [0x...]
-- **Standard:** ERC-721
-- **Launch Date:** November 2025
+- **Standard:** ERC-1155
+- **Launch Date:** Novemeber 2026
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ Moonlight Beast is a unique and collectible NFT series featuring digital assets 
 ### Mainnet
 - **Contract Address:** `0x...`
 - **Etherscan:** [Link]
-- **OpenSea Collection:** [Link]
+- **OpenSea Collection:** [https://opensea.io/collection/moonlightbeast]
 
 ### Testnet
 - **Goerli:** `0x...`
